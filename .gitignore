@@ -1,0 +1,15 @@
+gradle/wrapper/gradle-wrapper.jar
+.idea/codeStyles/codeStyleConfig.xml
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/4.4/taskHistory/taskHistory.bin
+.gradle/4.4/fileHashes/fileHashes.bin
+.gradle/4.4/fileChanges/last-build.bin
+.idea/workspace.xml
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/4.4/fileHashes/fileHashes.lock
+.idea/misc.xml
+.idea/gradle.xml
+.gradle/4.4/taskHistory/taskHistory.lock
+gradle/wrapper/gradle-wrapper.properties
+.idea/codeStyles/Project.xml
+.gradle/buildOutputCleanup/cache.properties
